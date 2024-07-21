@@ -1,4 +1,4 @@
-Project title: USING LARGE LANGUAGE MODELS FOR ENTITY EXTRACTION IN THE HEALTHCARE SECTOR (DATA4GOOD Competition https://business.purdue.edu/events/data4good/)
+## Project title: USING LARGE LANGUAGE MODELS FOR ENTITY EXTRACTION IN THE HEALTHCARE SECTOR (DATA4GOOD Competition https://business.purdue.edu/events/data4good/)
 
 In this project, our team leveraged the Mistral OpenOrca 7B model to enhance data extraction accuracy significantly, aligning our results closely with the intended problem statements. Key improvements included capitalizing brand-named drugs, accurately imputing ages, and refining spacing and grammar, which collectively reduced the Word Error Rate (WER) to 0.53738 on test data, closely mirroring the ideal solution. This precision was pivotal in securing 4th place among 95 teams in a private Kaggle competition.
 
